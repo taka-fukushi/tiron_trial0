@@ -14,6 +14,9 @@ namespace tiron_trial0
 		[STAThread]
 		static void Main()
 		{
+			int i; // for test
+
+			i = 3;
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
 			Application.Run(new Tiron_trial_main());
