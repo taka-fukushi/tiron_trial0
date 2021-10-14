@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace tiron_trial0
 {
-	public partial class Form1 : Form
+	public partial class Tiron_trial_main : Form
 	{
-		public Form1()
+		public Tiron_trial_main()
 		{
 			InitializeComponent();
 		}

@@ -1,7 +1,7 @@
 ﻿
 namespace tiron_trial0
 {
-	partial class Form1
+	partial class Tiron_trial_main
 	{
 		/// <summary>
 		/// 必要なデザイナー変数です。
@@ -29,10 +29,17 @@ namespace tiron_trial0
 		/// </summary>
 		private void InitializeComponent()
 		{
-			this.components = new System.ComponentModel.Container();
-			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(800, 450);
-			this.Text = "Form1";
+            this.SuspendLayout();
+            // 
+            // Tiron_trial_main
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Name = "Tiron_trial_main";
+            this.Text = "Tiron_trial_main";
+            this.ResumeLayout(false);
+
 		}
 
 		#endregion
