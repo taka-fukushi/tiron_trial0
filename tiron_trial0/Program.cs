@@ -16,7 +16,7 @@ namespace tiron_trial0
 		{
 			int i; // for test
 
-			i = 12345;
+			i = 1234;
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
 			Application.Run(new Tiron_trial_main());
